@@ -1,4 +1,4 @@
--- Random ID generations for databases. Assumes randomness i
+-- Random ID generations for databases. Assumes randomness is desired.
 
 local M = {}
 
